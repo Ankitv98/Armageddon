@@ -1,0 +1,11 @@
+Basically For new user, Take all details, Interests and save it on database.
+Generate a unique code for the user and send it to the app.
+
+Now Everytime, the App would send back only that code to the server
+the server would fetch the interests of the user and other information.
+Find Articles based on them
+
+Create some general cards too
+
+
+send it to the device.
